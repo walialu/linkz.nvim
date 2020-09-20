@@ -19,6 +19,14 @@ Via [vim-plug](https://github.com/junegunn/vim-plug).
 Plug 'walialu/linkztxt.nvim'
 ```
 
+### Requirements
+
+[fzf](https://github.com/junegunn/fzf), also installable via `vim-plug`:
+
+```text
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+```
+
 ## Usage
 
  - `:LinkzList` to open up a quickpick window with all linkz.
