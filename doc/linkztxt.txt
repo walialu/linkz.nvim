@@ -1,0 +1,28 @@
+*linkztxt.txt*  A Neovim plugin to make it easier to browse a linkz.txt file
+
+Author:  Marco Kellershoff <https://about.walialu.com/>
+License: MIT License (see |license|)
+
+INTRODUCTION                                    *linkztxt*
+
+This plugin's main purpose is to make browsing a linkz.txt file more pleasant.
+
+
+COMMANDS                                        *linkztxt-commands*
+
+linkztxt					      *:LinkzList*
+
+        Opens a list of all links defined by the linkz.txt file.
+
+MAPPINGS                                        *linkztxt-mappings*
+
+There are no mappings registered by the plugin.
+You need to map it according to your preference.
+
+ABOUT                                           *linkztxt-about*
+
+Grab the latest version or report a bug:
+
+http://github.com/walialu/linkztxt.nvim
+
+ vim:tw=78:et:ft=help:norl:

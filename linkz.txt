@@ -1,0 +1,11 @@
+About the author
+https://about.walialu.com
+
+About this plugin
+https://apps.walialu.com/linkz.txt
+
+View the source code
+https://github.com/walialu/linkztxt.nvim
+
+Create an issue
+https://github.com/walialu/linkztxt.nvim/issues
