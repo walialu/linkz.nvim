@@ -4,7 +4,7 @@ linkztxt.nvim
 A Neovim/Vim extension for conveniently browsing linkz.txt files
 from within your favourite editor.
 
-Highly inspired by [ctrlp.vim](https://github.com/kien/ctrlp.vim).
+![demo gif](demo.gif)
 
 ## Motivation
 
